@@ -1,9 +1,6 @@
 # The Book Depository Repository 
-If you came to my house I would give you a book, I usually insist. Well, this is that but here.
-It's the place where I keep whatever I'm reading. It's where anyone can get a copy.  
-
-(NSFW)                                  
-X - @junk__tech
+If you came to my house I would give you a book, I usually insist. This is a bit like that.
+This will be the place where I will keep whatever I'm reading. It's where anyone will be able to get their own copy.  
 
 ## Download/View/Read/Share 
 
