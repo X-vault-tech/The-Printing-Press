@@ -1,2 +1,12 @@
 # universal-free-education-is-a-human-right
-If you came to my house I would give you a book, I always do. This is that but here. 
+If you came to my house I would give you a book, I usually insist. Well, this is that, but here. 
+
+
+## Download/View/Read/Share
+
+
+> "Books will set you free"
+> anon
+
+
+[The Little Book of Deep Learning](pdfs/The Little Book of Deep Learning.pdf)
