@@ -1,6 +1,5 @@
 # Download/View/Read/Share
-## Books will set you free
-
 
 - [The Little Book of Deep Learning](https://github.com/X-vault-tech/The-Printing-Press/blob/d0a8f34ca674de9d6ea6aa26cad74ec232bdc0cb/pdfs/The%20Little%20Book%20of%20Deep%20Learning.pdf)
 
+- [Deep Learning with Python](https://github.com/X-vault-tech/The-Printing-Press/blob/c72763802c56ce7991decbe3da34e2300421f70d/pdfs/Deep%20Learning%20with%20Python.pdf)
