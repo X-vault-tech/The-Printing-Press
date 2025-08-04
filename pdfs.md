@@ -2,6 +2,5 @@
 ## Books will set you free
 
 
-- [Example PDF 1](pdfs/example1.pdf)
+- [The Little Book of Deep Learning](pdfs/The Little Book of Deep Learning.pdf)
 
-- [Example PDF 2](pdfs/example2.pdf)
