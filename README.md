@@ -6,7 +6,7 @@ If you came to my house I would give you a book, I usually insist. Well, this is
 
 
 > "Books will set you free"
-> anon
+
 
 
 [The Little Book of Deep Learning](pdfs/The Little Book of Deep Learning.pdf)
