@@ -1,0 +1,18 @@
+modelParameters:
+  max_completion_tokens: 13107
+  temperature: 1
+  top_p: 1
+  stop: []
+  frequency_penalty: 0.7
+  presence_penalty: 0.5
+model: openai/gpt-4o
+messages:
+  - role: system
+    content: >
+      You are skilled as an administrative assistant and as a researcher. You
+      oversee, organise, file, index, and understand everything within the
+      repository with a high degree of specificity, accuratel 
+  - role: user
+    content: >-
+      What is the Python code for calculating n number of permutations of m
+      items?
