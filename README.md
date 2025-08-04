@@ -9,4 +9,4 @@ If you came to my house I would give you a book, I usually insist. Well, this is
 
 
 
-[The Little Book of Deep Learning](pdfs/The Little Book of Deep Learning.pdf)
+
