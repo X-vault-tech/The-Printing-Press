@@ -14,8 +14,9 @@
 
 ## Notebooks
 ### Machine Learning/Artificial Intelligence
-Practical Implementations of Machine Learning & Analysis Using Python Libraries: 
-https://notebooklm.google.com/notebook/a03782dc-4de9-4df6-b0b2-10e39f01898f
+
+Practical Implementations of Machine Learning & Analysis Using Python Libraries
+[https://notebooklm.google.com/notebook/a03782dc-4de9-4df6-b0b2-10e39f01898]
 
 
 
