@@ -8,4 +8,4 @@
 
 - [Practical Statistics for Data Scientists](https://github.com/X-vault-tech/The-Printing-Press/blob/394f788d5d17ac03d8232dc16714533e4f0a7c4a/pdfs/datapot.vn-Practical-Statistics-for-Data-Scientists.pdf)
 
-- [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts.pdf](https://github.com/X-vault-tech/The-Printing-Press/blob/ca2d71b4ff10423f43eec2222362739aa83720bc/pdfs/Visual_Differential_Geometry_and_Forms_A_Mathematical_Drama_in_Five.pdf)
+- [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts](https://github.com/X-vault-tech/The-Printing-Press/blob/ca2d71b4ff10423f43eec2222362739aa83720bc/pdfs/Visual_Differential_Geometry_and_Forms_A_Mathematical_Drama_in_Five_Acts.pdf)
