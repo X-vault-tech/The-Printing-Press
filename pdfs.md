@@ -1,4 +1,4 @@
-# Download/View/Read/Share
+# Download / View / Take a copy / Share
 
 - [The Little Book of Deep Learning](https://github.com/X-vault-tech/The-Printing-Press/blob/d0a8f34ca674de9d6ea6aa26cad74ec232bdc0cb/pdfs/The%20Little%20Book%20of%20Deep%20Learning.pdf)
 
@@ -11,5 +11,14 @@
 - [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts](https://github.com/X-vault-tech/The-Printing-Press/blob/ca2d71b4ff10423f43eec2222362739aa83720bc/pdfs/Visual_Differential_Geometry_and_Forms_A_Mathematical_Drama_in_Five_Acts.pdf)
 
 - [Simpler Lambda Calculus](https://github.com/X-vault-tech/The-Printing-Press/blob/ebd8ddd530b93fde49f0cd09d12aa51067431b16/pdfs/simpler-lambda-calculus.pdf)
+
+## Notebooks
+### Machine Learning/Artificial Intelligence
+Practical Implementations of Machine Learning & Analysis Using Python Libraries: 
+https://notebooklm.google.com/notebook/a03782dc-4de9-4df6-b0b2-10e39f01898f
+
+
+
+
 
 - [An Example of Goal Directed Calculational Proof](https://github.com/X-vault-tech/The-Printing-Press/blob/adf44c3b33d6505771dfeeb416f3ffdb4c81ed96/pdfs/an-example-of-goal-directed-calculational-proof.pdf)
